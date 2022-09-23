@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on open source projects that boosts myself for a good career.
 - 📫 Reach me at **tandavakrishna12@gmail.com** 
-                  /n**https://www.linkedin.com/in/tandavakrishna07/**
+                  **https://www.linkedin.com/in/tandavakrishna07/**
 
 <!---
 tandava07/tandava07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
